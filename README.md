@@ -126,7 +126,7 @@ Roll No: 4
 Name: Arjun
 Average Marks: 57.67
 ```
-## Q3. Define a structure Employee with members id(int), name (string), and salary (float). Declare an array of 10 employees and read their details from user input. Write a menu-driven program that allows the user to:
+## Q3. Define a structure Employee with members id(int), name (string), and salary (float). Declare an array of 5 employees and read their details from user input. Write a menu-driven program that allows the user to:
 
 (a) Display all employee details.
 
