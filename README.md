@@ -187,3 +187,31 @@ Salary: 30000.00
   (b) Read the data back from the file.
 
   (c) Display the month(s) where sales were above the yearly average.
+
+### Test Case:
+```text
+January: 20000
+February: 25000
+March: 27000
+April: 30000
+May: 15000
+June: 22000
+July: 18000
+August: 26000
+September: 31000
+October: 24000
+November: 19000
+December: 28000
+
+Output:
+
+Data successfully written to 'sales_data.txt'.
+
+Yearly Average Sales: 23916.67
+
+Months with sales above yearly average:
+March      : 27000.00
+April      : 30000.00
+August     : 26000.00
+September  : 31000.00
+December   : 28000.00
