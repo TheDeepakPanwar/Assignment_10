@@ -90,5 +90,18 @@ ID        Name           Cost
 103       Pencil         5.00      
 104       Eraser         3.50      
 
-Average cost of all items: 17.63
+Average cost of all items: 17.125
+
+2. Define two structures:
+
+   Marks with members math, science, and english (floats).
+
+   Student with members rollNo (int), name(string), and marks (of type Marks).
+
+   Declare an array of 5 Student structures.
+   Accept input for all students and their marks, compute their average marks, and then display:
+
+The student with the highest average marks, and
+
+The student with the lowest average marks.
 
