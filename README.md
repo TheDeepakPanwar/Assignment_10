@@ -179,4 +179,11 @@ Employee Found:
 ID: 104
 Name: Arjun
 Salary: 30000.00
+```
+## Q4. Define a structure SalesRecord with members month (string), amount (float). Allow the user to input the sales data for all 12 months, and then:
 
+  (a) Write all data to a text file named "sales_data.txt".
+
+  (b) Read the data back from the file.
+
+  (c) Display the month(s) where sales were above the yearly average.
