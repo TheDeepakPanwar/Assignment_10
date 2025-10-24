@@ -6,3 +6,5 @@
   (b) Display the sorted list of items.
 
   (c) Additionally, display the average cost of all items.
+
+### Test Case:
