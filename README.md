@@ -106,3 +106,34 @@ Average cost of all items: 17.125
 
   (b) The student with the lowest average marks.
 
+### Test Case:
+```text
+Roll No: 1
+Name: Riya
+Math: 90
+Science: 85
+English: 88
+
+Roll No: 2
+Name: Karan
+Math: 70
+Science: 65
+English: 72
+
+Roll No: 3
+Name: Neha
+Math: 95
+Science: 92
+English: 96
+
+Roll No: 4
+Name: Arjun
+Math: 55
+Science: 60
+English: 58
+
+Roll No: 5
+Name: Meena
+Math: 80
+Science: 78
+English: 82
