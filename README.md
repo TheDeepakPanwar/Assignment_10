@@ -207,9 +207,10 @@ Output:
 
 Data successfully written to 'sales_data.txt'.
 
-Yearly Average Sales: 23916.67
+Yearly Average Sales: 23750.00
 
 Months with sales above yearly average:
+February   : 25000.00
 March      : 27000.00
 April      : 30000.00
 August     : 26000.00
