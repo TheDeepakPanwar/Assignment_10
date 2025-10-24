@@ -136,3 +136,46 @@ Average Marks: 57.67
 
 (d) Exit.
 
+### Test Case:
+```text
+Employee 1:
+ID: 101
+Name: Riya
+Salary: 28000
+
+Employee 2:
+ID: 102
+Name: Karan
+Salary: 32000
+
+Employee 3:
+ID: 103
+Name: Neha
+Salary: 25000
+
+Employee 4:
+ID: 104
+Name: Arjun
+Salary: 30000
+
+Employee 5:
+ID: 105
+Name: Meena
+Salary: 27000
+
+==============================
+ Employee Menu 
+==============================
+1. Display all employee details
+2. Search employee by ID
+3. Increase salary (< ₹30,000) by 10%
+4. Exit
+Enter your choice: 2
+
+Enter Employee ID to search: 104
+
+Employee Found:
+ID: 104
+Name: Arjun
+Salary: 30000.00
+
