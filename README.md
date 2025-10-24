@@ -8,3 +8,67 @@
   (c) Additionally, display the average cost of all items.
 
 ### Test Case:
+
+Enter details of 8 items:
+
+Item 1:
+
+ID: 101
+
+Name: Pen
+
+Cost: 10.5
+
+Item 2:
+
+ID: 102
+
+Name: Notebook
+
+Cost: 35.0
+
+Item 3:
+
+ID: 103
+
+Name: Pencil
+
+Cost: 5.0
+
+Item 4:
+
+ID: 104
+
+Name: Eraser
+
+Cost: 3.5
+
+Item 5:
+
+ID: 105
+
+Name: Marker
+
+Cost: 25.0
+
+Item 6:
+
+ID: 106
+
+Name: Ruler
+
+Cost: 12.0
+
+Item 7:
+
+ID: 107
+
+Name: Sharpener
+
+Cost: 6.0
+
+Item 8:
+
+ID: 108
+Name: File
+Cost: 40.0
