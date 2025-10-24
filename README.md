@@ -77,6 +77,7 @@ Cost: 40.0
 
 ### Output:
 
+```text
 Items sorted in descending order of cost:
 ID        Name           Cost      
 --------------------------------------
