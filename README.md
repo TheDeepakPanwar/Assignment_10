@@ -70,5 +70,24 @@ Cost: 6.0
 Item 8:
 
 ID: 108
+
 Name: File
+
 Cost: 40.0
+
+### Output:
+
+Items sorted in descending order of cost:
+ID        Name           Cost      
+--------------------------------------
+108       File           40.00     
+102       Notebook       35.00     
+105       Marker         25.00     
+106       Ruler          12.00     
+101       Pen            10.50     
+107       Sharpener      6.00      
+103       Pencil         5.00      
+104       Eraser         3.50      
+
+Average cost of all items: 17.63
+
