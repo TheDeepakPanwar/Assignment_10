@@ -8,76 +8,52 @@
   (c) Additionally, display the average cost of all items.
 
 ### Test Case:
-
+```text
 Enter details of 8 items:
 
 Item 1:
-
 ID: 101
-
 Name: Pen
-
 Cost: 10.5
 
 Item 2:
-
 ID: 102
-
 Name: Notebook
-
 Cost: 35.0
 
 Item 3:
-
 ID: 103
-
 Name: Pencil
-
 Cost: 5.0
 
 Item 4:
 
 ID: 104
-
 Name: Eraser
-
 Cost: 3.5
-
 Item 5:
 
 ID: 105
-
 Name: Marker
-
 Cost: 25.0
-
 Item 6:
 
 ID: 106
-
 Name: Ruler
-
 Cost: 12.0
-
 Item 7:
 
 ID: 107
-
 Name: Sharpener
-
 Cost: 6.0
-
 Item 8:
 
 ID: 108
-
 Name: File
-
 Cost: 40.0
 
-### Output:
+Output:
 
-```text
 Items sorted in descending order of cost:
 ID        Name           Cost      
 --------------------------------------
@@ -137,3 +113,16 @@ Name: Meena
 Math: 80
 Science: 78
 English: 82
+
+Output:
+
+Student with Highest Average Marks:
+Roll No: 3
+Name: Neha
+Average Marks: 94.33
+
+Student with Lowest Average Marks:
+Roll No: 4
+Name: Arjun
+Average Marks: 57.67
+
